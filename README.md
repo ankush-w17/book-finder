@@ -41,7 +41,7 @@ This is a full-stack demo application built with React and JSON Server. It demon
 - GET `/api/products` - Fetch all products
 - POST `/api/products` - Create a new product
 
-## Production Considerations
+## Production Considerations to be made 
 
 In a production environment, you would need to:
 
